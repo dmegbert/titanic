@@ -4,7 +4,7 @@ Titanic Kaggle Competition
 Exploring Machine Learning with Kaggle's Titanic Competition
 ------------------------------------------------------------
 
-Here's my code for Kaggle's introductory machine learning competition. Let's see who is going to live and who is going down with the ship
+Here's my code for Kaggle's introductory machine learning competition. Let's see who is going to live and who is going down with the ship <br> <br> Thanks to Megan L. Risdal for her excellent work that I leaned on heavily which can be found <a href = "https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic">here on Kaggle</a>
 
 Feature Engineering
 -------------------
